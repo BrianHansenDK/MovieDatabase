@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { memo } from 'react';
 import { CreatorTxt, TitleWrapper } from './Title.styled';
 
 const Title = ({ title, subtitle, quote }) => {
@@ -11,4 +11,4 @@ const Title = ({ title, subtitle, quote }) => {
   );
 };
 
-export default Title;
+export default memo(Title);
