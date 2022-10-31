@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/movie-database/static/css/main.b2586571.css",
+    "main.js": "/movie-database/static/js/main.0be1e011.js",
+    "service-worker.js": "/movie-database/service-worker.js",
+    "index.html": "/movie-database/index.html",
+    "main.b2586571.css.map": "/movie-database/static/css/main.b2586571.css.map",
+    "main.0be1e011.js.map": "/movie-database/static/js/main.0be1e011.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2586571.css",
+    "static/js/main.0be1e011.js"
+  ]
+}
